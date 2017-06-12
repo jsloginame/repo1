@@ -1,2 +1,2 @@
 # repo1
-Computer to Cloud first
+#slowly starting to understand this shit
